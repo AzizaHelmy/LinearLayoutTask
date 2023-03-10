@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginLarge">16dp</dimen>
+    <dimen name="marginMeduim">12dp</dimen>
+    <dimen name="marginSmall">8dp</dimen>
+    <dimen name="textSizeLarge">20sp</dimen>
+    <dimen name="textSizeNormal">16sp</dimen>
+    <dimen name="textSizeMeduim">12sp</dimen>
+    <dimen name="textSizeSmall">8sp</dimen>
+    <dimen name="imageSize">93dp</dimen>
+</resources>
