@@ -3,6 +3,7 @@
     <dimen name="marginLarge">16dp</dimen>
     <dimen name="marginMeduim">12dp</dimen>
     <dimen name="marginSmall">8dp</dimen>
+    <dimen name="paddingSmall">4dp</dimen>
     <dimen name="textSizeLarge">20sp</dimen>
     <dimen name="textSizeNormal">16sp</dimen>
     <dimen name="textSizeMeduim">12sp</dimen>
